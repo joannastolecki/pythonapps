@@ -1,0 +1,23 @@
+#pip install speedtest-cli 
+
+#or 
+#pip install speedtest-cli --upgrade pip
+
+
+# run from command line: speedtest-cli - finish.....
+
+
+
+
+""" wynik:
+(.venv) (base) iaska@Air-Aska pythonapps % speedtest-cli
+Retrieving speedtest.net configuration...
+Testing from iCloud Private Relay (104.28.45.36)...
+Retrieving speedtest.net server list...
+Selecting best server based on ping...
+Hosted by BLUEKOM (Nasielsk) [40.25 km]: 34.52 ms
+Testing download speed................................................................................
+Download: 24.09 Mbit/s
+Testing upload speed......................................................................................................
+Upload: 13.74 Mbit/s 
+(.venv) (base) iaska@Air-Aska pythonapps % """
